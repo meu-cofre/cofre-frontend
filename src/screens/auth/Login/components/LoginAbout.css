@@ -1,0 +1,10 @@
+.AboutContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+  background: rgb(86,222,255);
+  background: linear-gradient(180deg, rgba(86,222,255,1) 0%, rgba(46,172,202,1) 100%);
+}
+
+
